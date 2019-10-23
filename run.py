@@ -1,7 +1,7 @@
 from aiogram import Dispatcher
 
 from bot import handlers, models
-from bot.brains import executor
+from bot.brain import executor
 from bot.config import USE_WEBHOOK, WEBHOOK_URL, WEBHOOK_PATH, WEBAPP_HOST, WEBAPP_PORT
 
 
@@ -27,5 +27,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# TODO: re-check

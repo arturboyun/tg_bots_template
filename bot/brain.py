@@ -5,7 +5,7 @@ from aiogram import Dispatcher
 from aiogram.contrib.fsm_storage.redis import RedisStorage
 from aiogram.utils.executor import Executor
 
-from .config import BOT_TOKEN, SKIP_UPDATES
+from bot.config import BOT_TOKEN, SKIP_UPDATES
 
 logging.basicConfig(level=logging.INFO)
 

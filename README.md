@@ -1,7 +1,7 @@
 # Telegram bots template
 Created by Archie Ruin
 
-## Libs:
+## Requirements:
 - aiogram
 - peewee
 - aioredis
@@ -11,7 +11,7 @@ Created by Archie Ruin
 ## TO-DO:
 - [X] Requirements
 - [X] Config Template
-- [ ] Handlers Template
+- [X] Handlers Template
 - [ ] Models Template
-- [ ] Utils Template
+- [X] Utils Template
 - [ ] Keyboards Template
