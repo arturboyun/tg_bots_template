@@ -1,4 +1,12 @@
-# Telegram bots template by Archie Ruin
+# Telegram bots template
+Created by Archie Ruin
+
+## Libs:
+- aiogram
+- peewee
+- aioredis
+- psycopg2
+
 
 ## TO-DO:
 - [X] Requirements
